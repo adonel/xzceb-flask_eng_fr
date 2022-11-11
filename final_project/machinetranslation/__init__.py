@@ -1,2 +1,2 @@
-from . import translator.py
-from tests import tests.py
+from . import translator
+from tests import tests
